@@ -1,5 +1,12 @@
----
-layout: default
-title: Inicio
-nav_order: 1
----
+title: "Microsoft Fabric"
+description: "definición y conceptos"
+remote_theme: "pmarsceill/just-the-docs"
+
+# Esto le dice al tema cómo comportarse
+just_the_docs:
+  search_enabled: true
+  nav_sort: nav_order
+  # Esta es la variable nativa del tema para el ancho
+  sidebar_width: 200px 
+
+docs_dir: docs
