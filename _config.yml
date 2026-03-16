@@ -2,6 +2,9 @@ title: "Microsoft Fabric"
 description: "definición y conceptos"
 remote_theme: "pmarsceill/just-the-docs"
 
+
+url: https://jes-data.github.io/tutorial-microsoft-fabric
+
 # Esto le dice al tema cómo comportarse
 just_the_docs:
   search_enabled: true
